@@ -1,0 +1,12 @@
+.p-4{
+    padding: 1rem;
+}
+
+.navtop a{
+    padding: 0 0.5rem;
+}
+
+table a
+{
+    display:block !important;
+}
